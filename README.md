@@ -14,10 +14,10 @@ pip3 install pyparser
 
 To use on one file
 ```
-python3 run.py NAME_OF_SCSS_FILE
+python3 run.py PATH_OF_SCSS_FILE
 ```
 
 To use on a folder
 ```
-python3 run.py NAME_OF_FOLDER
+python3 run.py PATH_OF_FOLDER
 ```
